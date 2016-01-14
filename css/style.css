@@ -1,0 +1,63 @@
+
+
+#container{
+    width: 500px;
+    height:500px;
+    margin: 80px auto;
+}
+
+#output_section{
+    margin-top: 30px;
+    width:500px;
+    height:200px;
+    background: #0099ff;
+    box-shadow: 2px 2px 2px 2px #6E6E6E;
+    box-shadow: -2px -2px 2px #6E6E6E;
+    border-radius:10px;
+}
+
+#output_section .output{
+    font-size: 20px;
+    padding: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;
+    color:#ddd;
+}
+
+#first_select{
+    width: 8em;
+    height:2.4em;
+    font-size: 1em;
+    color:#6E6E6E;
+    border:2px solid #ccc;
+    border-radius: 4px;
+}
+
+#given_value{
+    width: 8em;
+    height:2em;
+    font-size: 1em;
+    color:#6E6E6E;
+    font-weight: bold;
+    border:2px solid #ccc;
+    border-radius: 4px;
+}
+
+#submit{
+    width: 5em;
+    height:2.4em;
+    font-size: 1em;
+    color:#6E6E6E;
+    border:2px solid #ccc;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin-top: 80px;
+    text-align: center;
+    color:#6E6E6E;
+}
+
+
